@@ -22,4 +22,8 @@ DT and Random Forest.ipynb: Training a DT and Random Forest model on the primary
 
 Graph Neural Networks.ipynb: Training GNNs on the primary dataset.
 
+Description: 
+
+This project predicts grain boundary segregation energies in alloys using data-driven models. It integrates feature-engineered ML methods and graph neural networks to learn atomic-level interactions. Compared to traditional DFT calculations, the pipeline offers faster, accurate screening of alloy systems, with GNNs achieving the best performance in capturing segregation behavior.
+
 
