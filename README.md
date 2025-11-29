@@ -1,6 +1,9 @@
 # Materials-Informatics-MSE-656-Course-Project
 This repository contains all the codes and resources, required to complete our project "Prediction of Grain Boundary Segregation Energy".
 
+<img width="1267" height="722" alt="image" src="https://github.com/user-attachments/assets/c1c6ad28-979d-42a2-86eb-8f37f8a6b530" />
+
+
 Members:
 Prutha Vinay,
 Basudev Mohapatra,
